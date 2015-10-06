@@ -20,7 +20,7 @@ package com.github.shareme.gwsdroidutil.library.state;
 import android.os.Bundle;
 import android.os.Parcelable;
 
-import com.grottworkshop.gwsutil.GsonHelper;
+import com.github.shareme.gwsdroidutil.library.GsonHelper;
 
 import java.io.Serializable;
 import java.lang.reflect.Field;

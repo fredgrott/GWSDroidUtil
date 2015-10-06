@@ -20,7 +20,7 @@ package com.github.shareme.gwsdroidutil.library.prefs;
 import android.content.SharedPreferences;
 import android.util.Base64;
 
-import com.grottworkshop.gwsutil.GsonHelper;
+import com.github.shareme.gwsdroidutil.library.GsonHelper;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
