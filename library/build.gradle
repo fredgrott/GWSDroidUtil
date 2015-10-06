@@ -110,7 +110,7 @@ dependencies {
               pom {
                 project {
                   packaging 'aar'
-                  name 'the commmon utility classes to android development'
+                  name 'GWSDroidUtil'
                   url siteUrl
 
                   licenses {
